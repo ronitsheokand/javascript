@@ -6,6 +6,6 @@ accountNumber=12
 //we can not chage value of const,, others we can changelike
 accountPassword="1234"
 
-console.log(accountId)
+console.log(accountId) 
 
 console.table([accountEmail,accountPassword,accountNumber])

@@ -46,6 +46,30 @@ console.log(typeof myFunction);
 
 
 
+//***************************************************** */
+
+//memory 
+//stack (primitive) [isme copy milta hai] , heap (non primitive) [isme reference milte hai]
+
+let nameOne = "nameone"
+
+let nameTwo = nameOne
+nameTwo = "nametwo"
+
+console.log(nameOne);
+console.log(nameTwo);
+
+let userOne={
+    email:"ronit@gmail.com",
+    upi:"oksbi"
+}
+
+let userTwo = userOne
+
+userTwo.email = "ronit"
+
+console.log(userOne.email);
+console.log(userTwo.email);
 
 
 

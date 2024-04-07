@@ -39,7 +39,7 @@ console.log("B",arr); // original array mai koi change nahi ayega
 
 const arr5 = arr.splice(1,3) // index dekhta hai or last wala index bhi print krta hai
 console.log(arr5);
-console.log("C",arr);   // original array mai bhi changes honge 
+console.log("C",arr);   // original array mai bhi changes honge  ,, array mai se splice wale hata dega
 
 
 

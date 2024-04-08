@@ -1,35 +1,35 @@
-/*let score = "33abc"
+// let score = "33abc"
 
-console.log(typeof score);
-console.log(typeof (score));
+// console.log(typeof score);
+// console.log(typeof (score));
 
-let valueInNumber=Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// let valueInNumber=Number(score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
 let score = null
 
-console.log(typeof score);
-console.log(typeof (score));
+// console.log(typeof score);
+// console.log(typeof (score));
 
 let valueInNumber=Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
-let score = undefined
+// let score = undefined
 
-console.log(typeof score);
-console.log(typeof (score));
+// console.log(typeof score);
+// console.log(typeof (score));
 
-let valueInNumber=Number(score)
-console.log(typeof valueInNumber);
-console.log(valueInNumber);
+// let valueInNumber=Number(score)
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
 
 
 let isLoggedIn = "ronit"
 
 let booleanIsLoggesIn=Boolean(isLoggedIn)
-console.log(booleanIsLoggesIn);
+// console.log(booleanIsLoggesIn);
 
 
 //"" = = false
@@ -39,8 +39,8 @@ console.log(booleanIsLoggesIn);
 let number=33
 
 let stringNumber= String(number)
-console.log(stringNumber);
-console.log(typeof stringNumber);*/
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
 
 // *********  operations  **************//
@@ -63,17 +63,17 @@ let str1 ="ronit ";
 let str2 = "sheokand";
 
 let str3 = str1+str2
-/*console.log(str3);
+// console.log(str3);
 
-console.log("1" + 2);
-console.log(1 + "2");
-console.log("1" + 2 + 2);
-console.log(1 + 2 + "2");*/
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("1" + 2 + 2);
+// console.log(1 + 2 + "2");
 
-//console.log(+true);
-//console.log(+"");
+// console.log(+true);
+// console.log(+"");
 
 let plus = 100
 ++plus;
 plus++;
-console.log(plus);
+// console.log(plus);

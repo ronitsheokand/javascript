@@ -27,7 +27,7 @@ const objectInObject={
 
 const obj4 ={...obj1,...obj2,...obj3} //merge objects
  
- console.log(obj4);
+// console.log(obj4);
 
 
 
@@ -57,6 +57,25 @@ user[1].email
 //console.log(Object.values(tinderUser));
 //console.log(Object.entries(tinderUser));
 
-console.log(tinderUser.hasOwnProperty('isLoggedIn'));
+//console.log(tinderUser.hasOwnProperty('isLoggedIn'));
+
+
+
+const course={
+    coursename:"js in hindi",
+    price:999,
+    courseInstructor:"ronit"
+
+}
+
+const {courseInstructor:instructor}=course
+
+//console.log(courseInstructor);
+console.log(instructor);
+
+
+
+
+
 
 

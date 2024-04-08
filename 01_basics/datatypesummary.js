@@ -13,7 +13,7 @@ let email;
 const id = Symbol('123')
 const anotherId = Symbol('123')
 // symbol ka kaam hi yhi hai same value doge to bhi equal nhi hogi
-console.log(id === anotherId );
+// console.log(id === anotherId );
 
 
  //const BigNumber = 982420873n  this is bigInt
@@ -41,8 +41,8 @@ const myFunction = function(){
 }
 
 
-console.log(typeof BigNumber);
-console.log(typeof myFunction);
+// console.log(typeof BigNumber);
+// console.log(typeof myFunction);
 
 
 
@@ -56,8 +56,8 @@ let nameOne = "nameone"
 let nameTwo = nameOne
 nameTwo = "nametwo"
 
-console.log(nameOne);
-console.log(nameTwo);
+// console.log(nameOne);
+// console.log(nameTwo);
 
 let userOne={
     email:"ronit@gmail.com",

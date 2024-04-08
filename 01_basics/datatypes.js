@@ -3,8 +3,8 @@
 //alert(3+3)// its shows popup but in browser ,we are using node js
 
 //code redability
-console.log(3+3)
-console.log("sum")
+// console.log(3+3)
+// console.log("sum")
 
 let name="ronit"
 let age=20
